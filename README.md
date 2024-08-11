@@ -62,7 +62,3 @@ The model uses a fine-tuned InceptionV3 architecture. For details on the trainin
 ## Contributing
 
 We welcome contributions to improve DogHealth AI. Please feel free to fork the repository, make changes, and submit pull requests.
-
-## Disclaimer
-
-This application is for educational purposes only and should not be used as a substitute for professional veterinary advice. If you're concerned about your dog's health, please consult with a qualified veterinarian.
