@@ -30,7 +30,7 @@ Experience DogHealth AI in action: [DogHealth AI on Streamlit](https://petponks-
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/PetPonks-AI-competition.git
+    git clone https://github.com/akhilesh1709/PetPonks-AI-competition.git
     cd PetPonks-AI-competition
     ```
 2. Set up a virtual environment (optional but recommended):
